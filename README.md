@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Puperger
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning Python/C++/HTML(And the rest of it like CSS)
+- 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on basicly anything
 - 📫 How to reach me puperger@gmail.com
 
